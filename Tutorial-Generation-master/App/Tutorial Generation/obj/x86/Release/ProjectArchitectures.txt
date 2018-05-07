@@ -1,0 +1,4 @@
+C:\Users\tgbtg\Downloads\Tutorial-Generation-master\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\tgbtg\Downloads\Tutorial-Generation-master\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\tgbtg\Downloads\Tutorial-Generation-master\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\tgbtg\Downloads\Tutorial-Generation-master\App\Tutorial Generation\Tutorial Generation.csproj;x86
